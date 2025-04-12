@@ -4,3 +4,5 @@ console.log('тест 2 ');
 console.log('тест 2 ');
 console.log('тест 2 ');
 console.log('тест 2 ');
+console.log('тест 2 ');
+console.log('тест 2 ');
